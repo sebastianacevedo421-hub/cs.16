@@ -1,0 +1,35 @@
+5-10-00
+
+================================================================
+
+Model Name              : Special Forces Uganda
+
+Author                  : Brian "EvilBastard" Collins
+
+Email Address           : Evilb@planetquake.com
+
+Website Address         : http://www.planetquake.com/polycount/cottages/EvilB
+
+Model description       : 
+
+	Uganda is a Counter-Strike model to replaces your least favorite CT model ;). Just put it in the directory of the model you want to replace. delete the old .mdl file and rename this new one to the same name as the one you just deleted.
+	A friend asked me the other day if there where any black models that i could recomend. I looked around, but all I came up with we a handfull of pimp skins. I thought that was a little unfair, so I made one of my own.
+	
+
+
+================================================================
+
+
+* Construction *
+
+Poly Count              : 816 tris.md2 
+
+Skin Count              : 1 DM
+
+Editor used             : 
+		Modeling - lightwave, Milkshape	
+		Skining  - NST, Milkshape	
+		Painting - Photoshop
+
+Known Bugs              : None that i know of.
+
